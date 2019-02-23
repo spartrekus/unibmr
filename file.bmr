@@ -1,0 +1,88 @@
+
+
+#include{unibmr.mrk}
+// !gpath{~/pool/figs/}
+!begin
+!beamer
+
+!section First section
+!clr
+> this is the header 
+- item 1
+- item 2
+- item 3
+!fig{fig.png}
+
+
+
+!section Second section
+!clr
+> this is header
+- item 1
+- item 2
+- item 3
+- item 4
+- item 5
+!fig{fig.png}
+
+
+
+!section Third 
+!clr
+> this is header  
+- item 1
+- item 2
+- item 3
+!fig{fig.png}
+
+
+!section trois 
+!clr
+> point one, text 
+> point two, text
+- item 1
+- item 2
+- item 3
+!fig{fig.png}
+
+
+
+
+!section Four 
+!clr
+> point one 
+- item 1
+- another item 
+!bigskip
+> point two, another text
+- item 1
+- item 2
+- item 3
+!bigskip
+> point three, another text
+- item 2
+- item 3
+
+
+!section Five
+!clr
+> point one
+- a first item 
+- a second item 
+
+
+
+!section Six
+!clr
+> point one
+- a first item 
+- a second item 
+!fig{fig.png}
+
+
+
+
+!enddoc
+
+
+
